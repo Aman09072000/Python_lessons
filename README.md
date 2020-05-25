@@ -1,4 +1,4 @@
-# Python_lessons #learm_with_me #learning
+# Python_lessons
 
 Hello Guys,
 
